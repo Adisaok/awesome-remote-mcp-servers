@@ -144,6 +144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
+- [Chain.Love](https://www.chain.love/mcp-gateway) `https://app.chain.love/mcp`
+  [![Chain.Love MCP connector](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp)
+  🔓 - Discover and compare Web3 infrastructure services such as RPCs, indexers, oracles and storage across 50+ networks.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
@@ -155,9 +158,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Pay-per-call chat models, text to speech, web search, on-chain reads and NLP tools in USDC via x402; browsing is free.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
   🔓 - Marketplace of MCP servers and APIs that agents pay for per call in USDC over x402 on Base.
-- [Chain.Love](https://www.chain.love/mcp-gateway) `https://app.chain.love/mcp`
-  [![Chain.Love MCP connector](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp)
-  🔓 - Discover and compare Web3 infrastructure services such as RPCs, indexers, oracles and storage across 50+ networks.
 - [FiatDock](https://fiatdock.com) `https://fiatdock.com/mcp`
   [![FiatDock MCP connector](https://glama.ai/mcp/connectors/com.fiatdock/fiatdock-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.fiatdock/fiatdock-mcp)
   🔓 - Pay-per-call web reading, email checks, token safety and a marketplace of MCP services, paid in USDC over x402.

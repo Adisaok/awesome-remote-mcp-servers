@@ -144,6 +144,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agora](https://openforallofus.com) `https://openforallofus.com/api/mcp`
   [![Agora MCP connector](https://glama.ai/mcp/connectors/com.openforallofus/agora/badges/score.svg)](https://glama.ai/mcp/connectors/com.openforallofus/agora)
   🔓 - Search every server in the official MCP registry, ranked by live handshake checks, tool lists and signed reports.
+- [Chain.Love](https://www.chain.love/mcp-gateway) `https://app.chain.love/mcp`
+  [![Chain.Love MCP connector](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp)
+  🔓 - Discover and compare Web3 infrastructure services such as RPCs, indexers, oracles and storage across 50+ networks.
 - [code402](https://code402.dev) `https://mcp.code402.dev/mcp`
   [![code402 MCP connector](https://glama.ai/mcp/connectors/io.github.89rat/code402/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.89rat/code402)
   🔓 - Storefront for x402 APIs: discover services, probe payment terms and list your own API.
